@@ -1,0 +1,33 @@
+{
+    "Back Jack + Lady": {
+        "must_have": [
+            "Absolute King Back Jack",
+            "Lady Labrynth of the Silver Castle"
+        ],
+        "need_one_groups": [
+            [
+                "Labrynth Stovie Torbie",
+                "Labrynth Chandraglier"
+            ]
+        ]
+    },
+    "Going First - Arianna gets Impermed, set rollback": {
+        "must_have": [
+            "Arianna the Labrynth Servant",
+            "Transaction Rollback"
+        ],
+        "need_one_groups": []
+    },
+    "Going First - Arias + Welcome Trap/Trap Trick": {
+        "must_have": [
+            "Arias the Labrynth Butler"
+        ],
+        "need_one_groups": [
+            [
+                "Trap Trick",
+                "Welcome Labrynth",
+                "Big Welcome Labrynth"
+            ]
+        ]
+    }
+}
