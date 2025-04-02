@@ -1,0 +1,30 @@
+{
+    "added_cards": {
+        "Mulcharmy Fuwalos": "MONSTER"
+    },
+    "image_paths": {
+        "Absolute King Back Jack": "Absolute King Back Jack.jpg",
+        "Arianna the Labrynth Servant": "Arianna the Labrynth Servant.jpg",
+        "Arias the Labrynth Butler": "Arias the Labrynth Butler.jpg",
+        "Ash Blossom & Joyous Spring": "Ash Blossom & Joyous Spring.jpg",
+        "Big Welcome Labrynth": "Big Welcome Labrynth.jpg",
+        "Called by the Grave": "Called by the Grave.jpg",
+        "Destructive Daruma Karma Cannon": "Destructive Daruma Karma Cannon.jpg",
+        "Dimensional Barrier": "Dimensional Barrier.jpg",
+        "Dominus Impulse": "Dominus Impulse.jpg",
+        "Infinite Impermanence": "Infinite Impermanence.jpg",
+        "Labrynth Chandraglier": "Labrynth Chandraglier.jpg",
+        "Labrynth Cooclock": "Labrynth Cooclock.jpg",
+        "Labrynth Labyrinth": "Labrynth Labyrinth.jpg",
+        "Labrynth Stovie Torbie": "Labrynth Stovie Torbie.jpg",
+        "Lady Labrynth of the Silver Castle": "Lady Labrynth of the Silver Castle.jpg",
+        "Lovely Labrynth of the Silver Castle": "Lovely Labrynth of the Silver Castle.jpg",
+        "Mulcharmy Fuwalos": "Mulcharmy Fuwalos.jpg",
+        "Pot of Extravagance": "Pot of Extravagance.jpg",
+        "Transaction Rollback": "Transaction Rollback.jpg",
+        "Trap Trick": "Trap Trick.jpg",
+        "Welcome Labrynth": "Welcome Labrynth.jpg"
+    },
+    "removed_cards": [],
+    "type_overrides": {}
+}
